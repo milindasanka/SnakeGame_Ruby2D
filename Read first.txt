@@ -1,0 +1,5 @@
+First install Ruby for pc
+after oprn cmd
+"gem install ruby2d" install 2d gem
+after run
+
